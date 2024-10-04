@@ -1,4 +1,4 @@
-# AmoveAgent API Documentation
+# Amove Click (AmoveAgent) API Documentation
 
 ## Introduction
 
